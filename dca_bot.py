@@ -12,7 +12,8 @@ load_dotenv()
 getcontext().prec = 10
 
 # ========== Logging Setup ==========
-log_dir = os.path.expanduser('~/logs')
+base_dir = os.path.dirname(os.path.abspath(__file__))
+log_dir = os.path.join(base_dir, 'log')
 os.makedirs(log_dir, exist_ok=True)
 
 log_filename = f"dca_{datetime.now().strftime('%Y-%m-%d')}.log"
