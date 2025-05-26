@@ -1,0 +1,99 @@
+2025-05-27 00:07:10,776 - INFO - DCA initialized. Waiting for next schedule...
+2025-05-27 00:08:10,777 - INFO - DCA bot started at 2025-05-27 00:08:10.777248
+2025-05-27 00:08:11,924 - INFO - Available KRW balance: 151946.74567
+2025-05-27 00:08:13,851 - INFO - Skipping BTC/KRW today (scheduled for [0, 2, 5])
+2025-05-27 00:08:13,851 - INFO - Skipping ETH/KRW today (scheduled for [0, 2, 5])
+2025-05-27 00:08:13,852 - INFO - Skipping SOL/KRW today (scheduled for [0])
+2025-05-27 00:08:13,852 - INFO - Skipping LINK/KRW today (scheduled for [0])
+2025-05-27 00:10:30,569 - INFO - DCA initialized. Waiting for next schedule...
+2025-05-27 00:11:30,570 - INFO - DCA bot started at 2025-05-27 00:11:30.570941
+2025-05-27 00:11:31,716 - INFO - Available KRW balance: 151946.74567
+2025-05-27 00:11:33,631 - INFO - [BTC/KRW] Price: 152232000.0, Budget: 8333.333333, Amount: 0.000054
+2025-05-27 00:11:33,631 - INFO - [ETH/KRW] Price: 3539000.0, Budget: 5000.000000, Amount: 0.001412
+2025-05-27 00:11:33,631 - INFO - [SOL/KRW] Price: 245000.0, Budget: 5000.000000, Amount: 0.020408
+2025-05-27 00:11:33,632 - INFO - [LINK/KRW] Price: 21530.0, Budget: 5000.000000, Amount: 0.232234
+2025-05-27 00:11:34,187 - ERROR - Failed to buy BTC/KRW: bithumb Invalid Parameter
+2025-05-27 00:11:35,341 - ERROR - Failed to buy ETH/KRW: bithumb 최소 주문금액은 5000 KRW 입니다.
+2025-05-27 00:11:36,553 - INFO - Executed order: {'info': {'status': '0000', 'order_id': 'C0587000000692819206'}, 'symbol': 'SOL/KRW', 'type': 'market', 'side': 'buy', 'id': 'C0587000000692819206', 'fees': [], 'clientOrderId': None, 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'price': None, 'amount': None, 'cost': None, 'average': None, 'filled': None, 'remaining': None, 'timeInForce': 'IOC', 'postOnly': None, 'trades': [], 'reduceOnly': None, 'stopPrice': None, 'triggerPrice': None, 'takeProfitPrice': None, 'stopLossPrice': None, 'status': None, 'fee': None}
+2025-05-27 00:11:37,077 - INFO - Executed order: {'info': {'status': '0000', 'order_id': 'C0168000000488060479'}, 'symbol': 'LINK/KRW', 'type': 'market', 'side': 'buy', 'id': 'C0168000000488060479', 'fees': [], 'clientOrderId': None, 'timestamp': None, 'datetime': None, 'lastTradeTimestamp': None, 'lastUpdateTimestamp': None, 'price': None, 'amount': None, 'cost': None, 'average': None, 'filled': None, 'remaining': None, 'timeInForce': 'IOC', 'postOnly': None, 'trades': [], 'reduceOnly': None, 'stopPrice': None, 'triggerPrice': None, 'takeProfitPrice': None, 'stopLossPrice': None, 'status': None, 'fee': None}
+2025-05-27 00:14:01,554 - INFO - DCA initialized. Waiting for next schedule...
+2025-05-27 00:15:01,555 - INFO - DCA bot started at 2025-05-27 00:15:01.555354
+2025-05-27 00:15:02,696 - INFO - Available KRW balance: 141933.77983
+2025-05-27 00:15:04,619 - INFO - [BTC/KRW] Price: 152272000.0, Budget: 8333.333333, Amount: 0.000054
+2025-05-27 00:15:04,620 - INFO - [ETH/KRW] Price: 3538000.0, Budget: 5000.000000, Amount: 0.001413
+2025-05-27 00:15:04,620 - INFO - [SOL/KRW] Price: 245000.0, Budget: 5000.000000, Amount: 0.020408
+2025-05-27 00:15:04,620 - INFO - [LINK/KRW] Price: 21540.0, Budget: 5000.000000, Amount: 0.232126
+2025-05-27 00:15:04,620 - INFO - [Dry Run] Would buy 0.000054 of BTC/KRW for 8333.333333 KRW
+2025-05-27 00:15:04,620 - INFO - [Dry Run] Would buy 0.001413 of ETH/KRW for 5000.000000 KRW
+2025-05-27 00:15:04,620 - INFO - [Dry Run] Would buy 0.020408 of SOL/KRW for 5000.000000 KRW
+2025-05-27 00:15:04,620 - INFO - [Dry Run] Would buy 0.232126 of LINK/KRW for 5000.000000 KRW
+2025-05-27 00:16:01,555 - INFO - DCA bot started at 2025-05-27 00:16:01.555250
+2025-05-27 00:16:01,701 - INFO - Available KRW balance: 141933.77983
+2025-05-27 00:16:03,613 - INFO - [BTC/KRW] Price: 152275000.0, Budget: 8333.333333, Amount: 0.000054
+2025-05-27 00:16:03,613 - INFO - [ETH/KRW] Price: 3538000.0, Budget: 5000.000000, Amount: 0.001413
+2025-05-27 00:16:03,613 - INFO - [SOL/KRW] Price: 245000.0, Budget: 5000.000000, Amount: 0.020408
+2025-05-27 00:16:03,613 - INFO - [LINK/KRW] Price: 21530.0, Budget: 5000.000000, Amount: 0.232234
+2025-05-27 00:16:03,613 - INFO - [Dry Run] Would buy 0.000054 of BTC/KRW for 8333.333333 KRW
+2025-05-27 00:16:03,613 - INFO - [Dry Run] Would buy 0.001413 of ETH/KRW for 5000.000000 KRW
+2025-05-27 00:16:03,613 - INFO - [Dry Run] Would buy 0.020408 of SOL/KRW for 5000.000000 KRW
+2025-05-27 00:16:03,613 - INFO - [Dry Run] Would buy 0.232234 of LINK/KRW for 5000.000000 KRW
+2025-05-27 00:16:06,111 - INFO - DCA initialized. Waiting for next schedule...
+2025-05-27 00:16:59,259 - INFO - DCA initialized. Waiting for next schedule...
+2025-05-27 00:17:59,260 - INFO - DCA bot started at 2025-05-27 00:17:59.260428
+2025-05-27 00:18:00,415 - INFO - Available KRW balance: 141933.77983
+2025-05-27 00:18:59,260 - INFO - DCA bot started at 2025-05-27 00:18:59.260316
+2025-05-27 00:18:59,407 - INFO - Available KRW balance: 141933.77983
+2025-05-27 00:19:59,261 - INFO - DCA bot started at 2025-05-27 00:19:59.260904
+2025-05-27 00:19:59,401 - INFO - Available KRW balance: 141933.77983
+2025-05-27 00:20:27,271 - INFO - DCA initialized. Waiting for next schedule...
+2025-05-27 00:20:57,705 - INFO - DCA initialized. Waiting for next schedule...
+2025-05-27 00:21:57,707 - INFO - DCA bot started at 2025-05-27 00:21:57.707164
+2025-05-27 00:21:58,840 - INFO - Available KRW balance: 141933.77983
+2025-05-27 00:22:00,770 - INFO - [BTC/KRW] Price: 152298000.0, Budget: 8334, Amount: 0.000055
+2025-05-27 00:22:00,770 - INFO - [ETH/KRW] Price: 3540000.0, Budget: 5000, Amount: 0.001413
+2025-05-27 00:22:00,770 - INFO - [SOL/KRW] Price: 245500.0, Budget: 5000, Amount: 0.020367
+2025-05-27 00:22:00,770 - INFO - [LINK/KRW] Price: 21550.0, Budget: 5000, Amount: 0.232019
+2025-05-27 00:22:00,770 - INFO - [Dry Run] Would buy 0.000055 of BTC/KRW for 8334 KRW
+2025-05-27 00:22:00,770 - INFO - [Dry Run] Would buy 0.001413 of ETH/KRW for 5000 KRW
+2025-05-27 00:22:00,770 - INFO - [Dry Run] Would buy 0.020367 of SOL/KRW for 5000 KRW
+2025-05-27 00:22:00,770 - INFO - [Dry Run] Would buy 0.232019 of LINK/KRW for 5000 KRW
+2025-05-27 00:22:57,707 - INFO - DCA bot started at 2025-05-27 00:22:57.706995
+2025-05-27 00:22:57,859 - INFO - Available KRW balance: 141933.77983
+2025-05-27 00:22:59,758 - INFO - [BTC/KRW] Price: 152299000.0, Budget: 8334, Amount: 0.000055
+2025-05-27 00:22:59,759 - INFO - [ETH/KRW] Price: 3541000.0, Budget: 5000, Amount: 0.001413
+2025-05-27 00:22:59,759 - INFO - [SOL/KRW] Price: 245600.0, Budget: 5000, Amount: 0.020359
+2025-05-27 00:22:59,759 - INFO - [LINK/KRW] Price: 21580.0, Budget: 5000, Amount: 0.231697
+2025-05-27 00:22:59,759 - INFO - [Dry Run] Would buy 0.000055 of BTC/KRW for 8334 KRW
+2025-05-27 00:22:59,759 - INFO - [Dry Run] Would buy 0.001413 of ETH/KRW for 5000 KRW
+2025-05-27 00:22:59,759 - INFO - [Dry Run] Would buy 0.020359 of SOL/KRW for 5000 KRW
+2025-05-27 00:22:59,759 - INFO - [Dry Run] Would buy 0.231697 of LINK/KRW for 5000 KRW
+2025-05-27 00:23:57,706 - INFO - DCA bot started at 2025-05-27 00:23:57.706775
+2025-05-27 00:23:57,856 - INFO - Available KRW balance: 141933.77983
+2025-05-27 00:23:59,764 - INFO - [BTC/KRW] Price: 152370000.0, Budget: 8334, Amount: 0.000055
+2025-05-27 00:23:59,764 - INFO - [ETH/KRW] Price: 3548000.0, Budget: 5000, Amount: 0.001410
+2025-05-27 00:23:59,764 - INFO - [SOL/KRW] Price: 246200.0, Budget: 5000, Amount: 0.020309
+2025-05-27 00:23:59,764 - INFO - [LINK/KRW] Price: 21630.0, Budget: 5000, Amount: 0.231161
+2025-05-27 00:23:59,764 - INFO - [Dry Run] Would buy 0.000055 of BTC/KRW for 8334 KRW
+2025-05-27 00:23:59,764 - INFO - [Dry Run] Would buy 0.001410 of ETH/KRW for 5000 KRW
+2025-05-27 00:23:59,764 - INFO - [Dry Run] Would buy 0.020309 of SOL/KRW for 5000 KRW
+2025-05-27 00:23:59,764 - INFO - [Dry Run] Would buy 0.231161 of LINK/KRW for 5000 KRW
+2025-05-27 00:24:57,706 - INFO - DCA bot started at 2025-05-27 00:24:57.706798
+2025-05-27 00:24:57,831 - INFO - Available KRW balance: 141933.77983
+2025-05-27 00:24:59,755 - INFO - [BTC/KRW] Price: 152401000.0, Budget: 8334, Amount: 0.000055
+2025-05-27 00:24:59,755 - INFO - [ETH/KRW] Price: 3545000.0, Budget: 5000, Amount: 0.001411
+2025-05-27 00:24:59,755 - INFO - [SOL/KRW] Price: 246200.0, Budget: 5000, Amount: 0.020309
+2025-05-27 00:24:59,755 - INFO - [LINK/KRW] Price: 21610.0, Budget: 5000, Amount: 0.231375
+2025-05-27 00:24:59,755 - INFO - [Dry Run] Would buy 0.000055 of BTC/KRW for 8334 KRW
+2025-05-27 00:24:59,755 - INFO - [Dry Run] Would buy 0.001411 of ETH/KRW for 5000 KRW
+2025-05-27 00:24:59,755 - INFO - [Dry Run] Would buy 0.020309 of SOL/KRW for 5000 KRW
+2025-05-27 00:24:59,755 - INFO - [Dry Run] Would buy 0.231375 of LINK/KRW for 5000 KRW
+2025-05-27 00:25:57,707 - INFO - DCA bot started at 2025-05-27 00:25:57.706991
+2025-05-27 00:25:57,838 - INFO - Available KRW balance: 141933.77983
+2025-05-27 00:25:59,758 - INFO - [BTC/KRW] Price: 152409000.0, Budget: 8334, Amount: 0.000055
+2025-05-27 00:25:59,758 - INFO - [ETH/KRW] Price: 3547000.0, Budget: 5000, Amount: 0.001410
+2025-05-27 00:25:59,759 - INFO - [SOL/KRW] Price: 246200.0, Budget: 5000, Amount: 0.020309
+2025-05-27 00:25:59,759 - INFO - [LINK/KRW] Price: 21650.0, Budget: 5000, Amount: 0.230947
+2025-05-27 00:25:59,759 - INFO - [Dry Run] Would buy 0.000055 of BTC/KRW for 8334 KRW
+2025-05-27 00:25:59,759 - INFO - [Dry Run] Would buy 0.001410 of ETH/KRW for 5000 KRW
+2025-05-27 00:25:59,759 - INFO - [Dry Run] Would buy 0.020309 of SOL/KRW for 5000 KRW
+2025-05-27 00:25:59,759 - INFO - [Dry Run] Would buy 0.230947 of LINK/KRW for 5000 KRW
