@@ -89,7 +89,7 @@ class DCA:
                 summary.append(f"[Dry Run] Would buy {amount} of {symbol} for {chunk_krw} KRW")
             else:
                 try:
-                    resp = self.exchange.create_market_buy_order(symbol=symbol, amount=float(amount))
+                    resp = self.exchange.create_market_buy_order(symbol=symbol, amount=amount)
                     self.logger.info(f"Executed order: {resp}")
                     summary.append(f"Bought {amount} of {symbol} for {chunk_krw} KRW")
                 except Exception as e:

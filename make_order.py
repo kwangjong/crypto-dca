@@ -77,7 +77,7 @@ for coin in portfolio:
         try:
             resp = bithumb.create_market_buy_order(
                 symbol=symbol,
-                amount=float(amount)
+                amount=amount
             )
             logger.info(f"Executed order: {resp}")
         except Exception as e:

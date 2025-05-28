@@ -6,11 +6,14 @@ from dotenv import load_dotenv
 load_dotenv()
 
 def get_bithumb_client():
-    return ccxt.bithumb({
+    exchange = ccxt.bithumb({
         'apiKey': os.getenv("ACCESS_KEY"),
         'secret': os.getenv("SECRET_KEY"),
         'enableRateLimit': True
     })
+    
+    exchange.verbose = True
+    return exchange
 
 def get_available_krw(balance):
     return Decimal(str(balance['free']['KRW']))
